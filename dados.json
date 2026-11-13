@@ -1,0 +1,54 @@
+{
+  "perfil": {
+    "nome": "Seu Nome",
+    "titulo": "Desenvolvedor(a) Python em formação",
+    "localizacao": "Fortaleza, CE",
+    "email": "seu.email@example.com",
+    "telefone": "+55 (85) 90000-0000",
+    "linkedin": "https://www.linkedin.com/in/seu-usuario",
+    "github": "https://github.com/seu-usuario",
+    "resumo": "Sou estudante de programação e estou desenvolvendo minha base em Python, lógica e desenvolvimento web. Gosto de transformar problemas em soluções simples, aprender na prática e documentar o que construo."
+  },
+  "habilidades": [
+    "Python",
+    "HTML5",
+    "CSS3",
+    "Git e GitHub",
+    "Lógica de programação",
+    "JSON"
+  ],
+  "formacao": [
+    {
+      "curso": "Nome do curso ou graduação",
+      "instituicao": "Instituição de ensino",
+      "periodo": "2024 — em andamento",
+      "detalhe": "Acrescente aqui uma informação relevante, se desejar."
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Python para iniciantes",
+      "instituicao": "Nome da plataforma ou instituição",
+      "ano": "2025"
+    },
+    {
+      "nome": "Fundamentos de Git e GitHub",
+      "instituicao": "Nome da plataforma ou instituição",
+      "ano": "2025"
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "Gerador de currículo e portfólio",
+      "descricao": "Aplicação que lê informações de um arquivo JSON e gera uma página de currículo em HTML com Python e f-strings.",
+      "tecnologias": ["Python", "JSON", "HTML", "CSS"],
+      "link": "https://github.com/seu-usuario/gerador-portfolio"
+    },
+    {
+      "nome": "Projeto pessoal de estudos",
+      "descricao": "Descreva brevemente o problema que seu projeto resolve, o que você desenvolveu e o que aprendeu durante a implementação.",
+      "tecnologias": ["Python", "Git"],
+      "link": ""
+    }
+  ]
+}
