@@ -4,8 +4,6 @@ Projeto em Python que lê os dados de `dados.json` e gera um currículo/portfól
 
 ## Prévia
 
-![Captura do currículo gerado](print-da-pagina.png)
-
 > **Antes de publicar:** os dados de `dados.json` são apenas exemplos. Troque nome, contatos, formação, cursos, habilidades e projetos pelas suas informações reais. Confira também os links para não publicar dados de exemplo.
 
 ## Requisitos
